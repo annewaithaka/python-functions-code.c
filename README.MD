@@ -6,6 +6,14 @@ This repository contains several Python code snippets that demonstrate basic pro
 ### Installation
 Clone the repository Install dependencies.
 
+### Run the Script:
+Execute the Python script by typing:
+    python3 (name of the file.py)
+Follow the Prompts:
+For some scripts you will prompted to enter values.
+Input the values as requested and press Enter.
+View the result.
+
 ### Table of Contents
 1.Adding Two Numbers
 2.Checking Even or Odd
